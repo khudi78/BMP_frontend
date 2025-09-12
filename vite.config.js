@@ -7,5 +7,5 @@ export default defineConfig({
   css: {
     transformer: "postcss", // ⬅ force fallback
   },
-  base:"/BMP-frontend",
+  base:"/BMP-frontend/",
 })
