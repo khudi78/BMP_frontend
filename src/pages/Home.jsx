@@ -43,10 +43,10 @@ function Home() {
         </div>
 
         {/* Services */}
-        <div className="bg-gray-200 w-full ">
+        <div className="bg-gray-200 w-full mt-[-50px]">
           <div className="flex flex-col gap-5 py-10">
             <div className="text-center text-5xl font-bold">Our Services</div>
-            <div className="text-center text-xl">
+            <div className="text-center text-xl mb-[-55px]">
               How We Help You Achieve Your Publication Goals
             </div>
            
