@@ -1,7 +1,5 @@
 import { useState } from "react";
-import Footer from "../components/footer";
 import Header from "../components/Header";
-import Slideshow from "../components/Slideshow";
 import { motion } from "framer-motion";
 import CardGrid from "../components/CardGrid";
 import { Link } from "react-router-dom";
